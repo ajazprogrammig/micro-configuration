@@ -1,3 +1,6 @@
+string:
+application:
+name: confif-dev
 eureka:
   instance:
     prefer-ip-address: true
